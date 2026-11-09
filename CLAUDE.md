@@ -23,6 +23,10 @@ After the initial setup, we will follow these steps for each problem one after A
 ## Post summarization
 After we finished the assignment, I will instruct you with "Finish and summarize". With this instruction I want you to create a new file in knowledge_base/X/ named "final_X.md". In this file, create me a file which I can use to later on to learn for the exam. In there, Summarize important topics from the lecture and assignment and store them there. This learning file will also serve as input for later CLAUDE request where I will ask you to create quizzes, tests and exercises for me to train and deepen my knowledge for the exam and for my future.
 
+## Lecture mode
+
+It could also be that I instruct you with Help with lecture_X. In that case, read that lecture or use the knowledge in the knowledge base and help me with my questions. After I said Help with lecture_X, init your session by gathering information you need and then tell me when youre ready. I will then start to ask you questions and youre job is again, to teach me so I actually understand the topics.
+
 # Project structure (templated)
 + assignments
     + assignment_X
