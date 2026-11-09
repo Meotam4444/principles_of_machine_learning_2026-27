@@ -12,4 +12,4 @@ An AI that reads this should concern the following: This human ( Mattis Römke, 
 I use claude code that runs the Opus 5.5 model for this project. I do not use any MCP servers or tools I dont know, simply because I dont want to risk anything when I run claude code on my PC in this folder.
 
 # About me
-I am Mattis Römke. A computer science student from the university of Bonn. You can reach me using E-Mail: mattis.roemke@gmail.com or add me on Linked-In: 
+I am Mattis Römke. A computer science student from the university of Bonn. You can reach me using E-Mail: mattis.roemke@gmail.com or add me on Linked-In: https://www.linkedin.com/in/mattis-roemke.
